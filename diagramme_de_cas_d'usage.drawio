@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T16:00:57.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="L37NmQ-43uGZB2gUavyr" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T16:29:13.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="CTT9yk5AjYfU2eRN9VYm" version="21.1.2" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
-    <mxGraphModel dx="9317" dy="8014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10566" dy="8681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,33 +277,6 @@
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-126" value="Tableau de bord" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4225" y="-4140" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-128" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mz7fUr0vwj-igbSiduvv-98" target="mz7fUr0vwj-igbSiduvv-126" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-3780" y="-5550" as="sourcePoint" />
-            <mxPoint x="-3620" y="-5550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-3560" y="-4790" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-129" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mz7fUr0vwj-igbSiduvv-107" target="mz7fUr0vwj-igbSiduvv-126" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-3780" y="-5550" as="sourcePoint" />
-            <mxPoint x="-3620" y="-5550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-3560" y="-4790" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-130" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mz7fUr0vwj-igbSiduvv-114" target="mz7fUr0vwj-igbSiduvv-126" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-3780" y="-5550" as="sourcePoint" />
-            <mxPoint x="-3620" y="-5550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-3560" y="-4790" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-133" value="To-do liste" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4450" y="-3950" width="140" height="70" as="geometry" />
