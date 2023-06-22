@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T14:20:28.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="8vUrSyWmE791fJytLvTj" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T14:50:30.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="a42i7FxT-Bo-_hH1s3vh" version="21.3.8" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
     <mxGraphModel dx="9139" dy="7870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,41 +241,17 @@
             <mxPoint x="-4090" y="-5120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-104" value="Décide d&#39;un rendez-vous" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-4190" y="-4980" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-105" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.546;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-104" target="mz7fUr0vwj-igbSiduvv-95">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-4080" y="-5220" as="sourcePoint" />
-            <mxPoint x="-4130" y="-5280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-106" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-104" target="mz7fUr0vwj-igbSiduvv-107">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-4135" y="-4876" as="sourcePoint" />
-            <mxPoint x="-4120" y="-4840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-107" value="Calendrier" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-4225" y="-4830" width="210" height="130" as="geometry" />
+          <mxGeometry x="-4225" y="-4920" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-110" value="Evenement" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-4470" y="-4720" width="140" height="70" as="geometry" />
+        <mxCell id="mz7fUr0vwj-igbSiduvv-110" value="&lt;div&gt;Création d&#39;evenement&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4370" y="-4700" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-111" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.029;exitY=0.692;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-107" parent="1" target="mz7fUr0vwj-igbSiduvv-110">
+        <mxCell id="mz7fUr0vwj-igbSiduvv-111" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.029;exitY=0.692;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-107" parent="1" target="mz7fUr0vwj-igbSiduvv-110">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-4415" y="-4616" as="sourcePoint" />
             <mxPoint x="-4400" y="-4570" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-112" value="Rendez-vous" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-3870" y="-4730" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mz7fUr0vwj-igbSiduvv-113" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-107" parent="1" target="mz7fUr0vwj-igbSiduvv-112">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-3815" y="-4626" as="sourcePoint" />
-            <mxPoint x="-3800" y="-4580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-114" value="Gestion des tâches" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="1">
