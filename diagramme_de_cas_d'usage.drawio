@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T12:17:22.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="1Jne2Mu_kf2aTkjQoVUF" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T12:25:54.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vDcnmSIC79K4QYSQAjps" version="21.3.8" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
-    <mxGraphModel dx="1357" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6558" dy="6651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mz7fUr0vwj-igbSiduvv-2" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;rounded=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-3" target="mz7fUr0vwj-igbSiduvv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-3" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-2723" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4012.5" y="-2770" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-5" value="Tableau de bord" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-2860" width="640" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-6" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3698" y="-2600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-7" value="cherche un tuteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4352.5" y="-2710" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-8" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;rounded=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-9" target="mz7fUr0vwj-igbSiduvv-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-9" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-3423" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-10" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4012.5" y="-3470" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-11" value="Gestion des tâches" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-3560" width="640" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-12" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3698" y="-3300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-13" value="cherche un tuteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4352.5" y="-3410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-14" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;rounded=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-15" target="mz7fUr0vwj-igbSiduvv-19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-15" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-4103" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-16" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4012.5" y="-4150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-17" value="Calendrier" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-4240" width="640" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-18" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3698" y="-3980" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-19" value="cherche un tuteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4352.5" y="-4090" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-20" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;rounded=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-21" target="mz7fUr0vwj-igbSiduvv-25" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-21" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-4803" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-22" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4012.5" y="-4850" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-23" value="Interface de chat" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-4940" width="640" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-24" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3698" y="-4680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-25" value="cherche un tuteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4352.5" y="-4790" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-26" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;rounded=0;" edge="1" source="mz7fUr0vwj-igbSiduvv-27" target="mz7fUr0vwj-igbSiduvv-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-27" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4680" y="-5503" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-28" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4012.5" y="-5550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-29" value="Connexion" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-4420" y="-5640" width="640" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-30" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3698" y="-5380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mz7fUr0vwj-igbSiduvv-31" value="doit ce connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4352.5" y="-5490" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
