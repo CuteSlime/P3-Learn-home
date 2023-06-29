@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T14:29:56.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cPbC550bh-oN5dOO_5io" version="21.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-29T14:31:25.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="kM9PRMPDZxtUvkv5ECsd" version="21.5.0" type="github" pages="7">
   <diagram name="Connexion" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1374" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -141,8 +141,8 @@
             <mxGeometry x="260" y="147.5" width="15" height="15" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="DnEagJHbqEJiMRmHyqJ5-8" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="300" width="16" height="16" as="geometry" />
+        <mxCell id="DnEagJHbqEJiMRmHyqJ5-12" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#676767;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
