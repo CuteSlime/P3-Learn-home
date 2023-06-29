@@ -1,14 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T07:44:35.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="MbhpHeLxtLQT36eUpPg5" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T08:24:01.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="9D8ZpC0R_DPmBh_jKtsq" version="21.5.1" type="github">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="339" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="210" height="180" as="geometry" />
+        <mxCell id="OetnsAStxz32LthR_dCU-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-240" y="10" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="En tend qu&#39;&#xa;Je veut&#xa;pour&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=14;spacingBottom=14;imageAspect=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="195" width="160" height="110" as="geometry" />
+        <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-3" vertex="1">
+          <mxGeometry width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève&lt;/li&gt;&lt;li&gt;Je veut pouvoir demander un nouveau mot de passe &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-3" vertex="1">
+          <mxGeometry width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-240" y="160" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OetnsAStxz32LthR_dCU-11">
+          <mxGeometry width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-13" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève&lt;/li&gt;&lt;li&gt;Je veut&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" vertex="1" parent="OetnsAStxz32LthR_dCU-11">
+          <mxGeometry width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="10" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OetnsAStxz32LthR_dCU-14">
+          <mxGeometry width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OetnsAStxz32LthR_dCU-16" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève&lt;/li&gt;&lt;li&gt;Je veut&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" vertex="1" parent="OetnsAStxz32LthR_dCU-14">
+          <mxGeometry width="380" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
