@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T14:09:18.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="DwGI7CJaVJB_PV3EoIwh" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-29T14:29:56.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cPbC550bh-oN5dOO_5io" version="21.5.0" type="github" pages="7">
   <diagram name="Connexion" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1374" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -93,11 +93,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8tI4YglRhcNIQhs9JiEP" name="Tableau_de_bord">
-    <mxGraphModel dx="1374" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AnNco3qtHtJ0rxQlufRY-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.05555555555555555;rotation=90;" parent="1" vertex="1">
+        <mxCell id="AnNco3qtHtJ0rxQlufRY-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.05555555555555555;rotation=90;movable=0;" parent="1" vertex="1">
           <mxGeometry x="240" width="720" height="880" as="geometry" />
         </mxCell>
         <mxCell id="AnNco3qtHtJ0rxQlufRY-2" value="Page de tableau de bord Learn@Home" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -109,11 +109,13 @@
         <mxCell id="zjiGUEqZlxrzgw5jTVH4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="880" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zjiGUEqZlxrzgw5jTVH4-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;expand=1;resizable=1;overflow=visible;comic=0;dropTarget=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="130" width="50" height="50" as="geometry">
-            <mxRectangle x="950" y="100" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
+        <UserObject label="" link="data:page/id,kBj88GQve-mjVMyJMuxL" id="zjiGUEqZlxrzgw5jTVH4-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;expand=1;resizable=1;overflow=visible;comic=0;dropTarget=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+            <mxGeometry x="970" y="130" width="50" height="50" as="geometry">
+              <mxRectangle x="950" y="100" width="50" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Log-out&lt;/font&gt;&lt;/b&gt;" link="data:page/id,c9db0220-8083-56f3-ca83-edcdcd058819" id="zjiGUEqZlxrzgw5jTVH4-6">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
             <mxGeometry x="880" y="120" width="100" height="70" as="geometry" />
@@ -139,6 +141,9 @@
             <mxGeometry x="260" y="147.5" width="15" height="15" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="DnEagJHbqEJiMRmHyqJ5-8" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="16" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -176,6 +181,14 @@
         <mxCell id="6NtggSzJ9T25TCeJ3Egh-13" value="&lt;div&gt;Mot de passe perdu ? &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Veuillez indiquer votre adresse e-mail si dessous pour réinitialiser votre mot de passe.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="355" y="300" width="490" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kBj88GQve-mjVMyJMuxL" name="Compte">
+    <mxGraphModel dx="1374" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
