@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T15:29:15.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="02L0G-Te0Hmv_ikydq23" version="21.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-29T15:35:48.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="4Ygr94GXkIxfK4hui1lv" version="21.5.0" type="github" pages="7">
   <diagram name="Connexion" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1374" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AnNco3qtHtJ0rxQlufRY-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.05555555555555555;rotation=90;movable=1;editable=0;resizable=1;rotatable=1;deletable=1;locked=0;connectable=0;allowArrows=0;expand=0;" parent="1" vertex="1">
+        <mxCell id="AnNco3qtHtJ0rxQlufRY-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.05555555555555555;rotation=90;movable=1;editable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;allowArrows=0;expand=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="240" width="720" height="880" as="geometry" />
         </mxCell>
         <mxCell id="AnNco3qtHtJ0rxQlufRY-2" value="Page de tableau de bord Learn@Home" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
