@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T12:21:45.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="JlMBY2-mWFguco2isqh5" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T15:43:29.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="To2HR1RtgpmnBUEcKr4c" version="21.5.2" type="github">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="2273" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-3" value="User Story&#39;s" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-3" value="User Story&#39;s" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-720" width="1040" height="1280" as="geometry">
             <mxRectangle x="-360" y="-720" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -15,10 +15,10 @@
         <mxCell id="OetnsAStxz32LthR_dCU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="OetnsAStxz32LthR_dCU-24" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-23" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veut&amp;nbsp; pouvoir faire une liste de tâche.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour savoir ce qu&#39;il me reste a faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-24" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-23" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâche.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour savoir ce qu&#39;il me reste a faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-24" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-76" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-24">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-76" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="OetnsAStxz32LthR_dCU-24" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-28" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -30,7 +30,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-30" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;nous voulons avoir un compte dédier sur le site.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour rassembler l&#39;ensemble de nos activité.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-74" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-28">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-74" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-31" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -39,22 +39,22 @@
         <mxCell id="OetnsAStxz32LthR_dCU-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-31" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-33" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veut&amp;nbsp; un mentor dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-31" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-33" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; un mentor dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-31" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-72" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-31">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-72" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-31" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-34" value="" style="group;fontStyle=0" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
-          <mxGeometry x="330" y="160" width="380" height="120" as="geometry" />
+          <mxGeometry x="100" y="160" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-36" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veut une plateforme de soutien scolaire a distance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour pouvoir y accéder de n&#39;importe ou.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-36" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux une plateforme de soutien scolaire a distance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour pouvoir y accéder de n&#39;importe ou.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-71" value="13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-34">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-71" value="13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-37" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -63,10 +63,10 @@
         <mxCell id="OetnsAStxz32LthR_dCU-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-37" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-39" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veut pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour les soutenir dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-37" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-39" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour les soutenir dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-37" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-73" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-37">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-73" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-37" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-40" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -75,10 +75,10 @@
         <mxCell id="OetnsAStxz32LthR_dCU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-40" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-42" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veut&amp;nbsp; pouvoir attribuer des tâches à mes élèves&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour leur fixer des objectif concret&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-40" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-42" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour leur fixer des objectif concret&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-40" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-77" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-40">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-77" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="OetnsAStxz32LthR_dCU-40" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-46" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -90,7 +90,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-48" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-46" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-69" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-46">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-69" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="OetnsAStxz32LthR_dCU-46" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-49" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -102,10 +102,10 @@
         <mxCell id="OetnsAStxz32LthR_dCU-27" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs&lt;/li&gt;&lt;li&gt;Nous voulons pouvoir communiquer&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour facilité les échanges et l&#39;apprentissage.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;spacingBottom=0;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-79" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="OetnsAStxz32LthR_dCU-49">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-79" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-2" value="" style="group" vertex="1" connectable="0" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-2" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="330" y="800" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
@@ -114,58 +114,58 @@
         <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour connaitre nos rendez-vous et échéance de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-78" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-2">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-78" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="MKo6S_NpZ9i3rgRZni-A-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="210" as="sourcePoint" />
             <mxPoint x="950" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-16" value="&lt;b&gt;Difficulté :&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-16" value="&lt;b&gt;Difficulté :&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="860" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-61" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-61" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="940" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-62" value="&lt;b&gt;13&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-62" value="&lt;b&gt;13&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="940" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-6" value="" style="group" vertex="1" connectable="0" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-6" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="270" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-6">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="MKo6S_NpZ9i3rgRZni-A-6" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-8" value="Devrait avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-6">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-8" value="Devrait avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-6" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-9" value="" style="group" vertex="1" connectable="0" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-9" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="460" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-9">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="MKo6S_NpZ9i3rgRZni-A-9" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-11" value="peut avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-9">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-11" value="peut avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-9" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-12" value="" style="group" vertex="1" connectable="0" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-12" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="640" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-13" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-12">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-13" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="MKo6S_NpZ9i3rgRZni-A-12" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-14" value="dispensable" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-12">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-14" value="dispensable" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-12" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-5" value="" style="group" vertex="1" connectable="0" parent="MKo6S_NpZ9i3rgRZni-A-3">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-5" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="80" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-5">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;" parent="MKo6S_NpZ9i3rgRZni-A-5" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-4" value="Doit avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MKo6S_NpZ9i3rgRZni-A-5">
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-4" value="Doit avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-5" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
