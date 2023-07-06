@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T14:13:50.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="2iEQbwhznmR2_5fntPi2" version="21.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-06T14:20:35.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="weEgEbv76VTWsGD75YXz" version="21.5.1" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
     <mxGraphModel dx="1600" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,13 +232,13 @@
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-71" value="13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hbFUXT8UACBMAcb7MSX3-1" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" vertex="1" collapsed="1" parent="OetnsAStxz32LthR_dCU-34">
-          <mxGeometry x="10" y="100" width="360" height="20" as="geometry">
-            <mxRectangle x="10" y="100" width="360" height="290" as="alternateBounds" />
+        <mxCell id="hbFUXT8UACBMAcb7MSX3-1" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" vertex="1" parent="OetnsAStxz32LthR_dCU-34">
+          <mxGeometry x="10" y="100" width="360" height="190" as="geometry">
+            <mxRectangle x="10" y="100" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-2" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je vais sur le site&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; définit le contexte. Sur quelle page sommes-nous et dans quel état sommes-nous ? L&#39;utilisateur est-il un administrateur ? Connecté ? A créé une campagne ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;quelles actions l&#39;utilisateur exécute. Quel événement s&#39;est produit ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;que devrait faire le système en réponse ? Quel est le résultat attendu ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hbFUXT8UACBMAcb7MSX3-1">
-          <mxGeometry x="10" y="30" width="340" height="250" as="geometry" />
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-2" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je vais sur le site&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; que j&#39;ai accès au site.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je cherche un un soutiens scolaire &lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;Le site m&#39;attribue un tuteur pour me suivre et m&#39;offre un chat pour dialoguer, un calendrier pour répertorier les évènements et un endroit pour lister les tâches à faire." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hbFUXT8UACBMAcb7MSX3-1">
+          <mxGeometry x="10" y="30" width="340" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
