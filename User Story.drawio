@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T12:27:14.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="ihqPxR2HTOxM7LMd9Thf" version="21.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-06T12:56:00.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dYX48iUEWK5LYAWm5ydT" version="21.5.1" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="8554" dy="5849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-34" value="" style="group;fontStyle=0" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
-          <mxGeometry x="100" y="160" width="380" height="120" as="geometry" />
+          <mxGeometry x="100" y="160" width="530" height="300" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
@@ -168,11 +168,16 @@
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-4" value="Doit avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-5" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hbFUXT8UACBMAcb7MSX3-1" value="Liste des Tâches :" style="swimlane;whiteSpace=wrap;html=1;rounded=0;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=2;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-550" width="340" height="190" as="geometry">
+            <mxRectangle x="190" y="90" width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KVjIyTAAksKFLHILbtpx" name="Page-2">
-    <mxGraphModel dx="1932" dy="3508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4636" dy="5146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
