@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T11:06:00.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="PE_dkDDqbgwYYWQxDxUh" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T20:06:01.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="rTVxj783FiBAznO6ZB0u" version="21.1.2" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
-    <mxGraphModel dx="10929" dy="9974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7539" dy="7904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           <mxGeometry x="-3751" y="-5965" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-71" value="N&#39;as pas de compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4891" y="-6840" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4921" y="-6820" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-74" value="" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4781" y="-6750" width="270" height="190" as="geometry" />
@@ -73,16 +73,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-83" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-71" target="mz7fUr0vwj-igbSiduvv-84" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.232" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="-4691" y="-6830" as="sourcePoint" />
             <mxPoint x="-4631" y="-6950" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-84" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4716" y="-6910" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4730" y="-6900" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-85" value="A oublier sont mot de passe" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4541" y="-6850" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4520" y="-6820" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-86" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-85" target="mz7fUr0vwj-igbSiduvv-74" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -209,6 +210,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-4456" y="-5590" as="sourcePoint" />
             <mxPoint x="-4466" y="-5470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-1" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4361" y="-6890" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-85" target="4Mpj3EFvp5IDbKv1Nh6n-1">
+          <mxGeometry x="-0.1909" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="-4691" y="-6830" as="sourcePoint" />
+            <mxPoint x="-4631" y="-6950" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
