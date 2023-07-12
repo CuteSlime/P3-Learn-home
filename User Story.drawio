@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T22:42:45.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SuPBYrZYitRsuovgu75v" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-12T22:44:18.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tJYDdylI01Xj-GEQtTm7" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
     <mxGraphModel dx="2112" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,16 +101,16 @@
           <mxGeometry x="10" y="17.985725614591594" width="340" height="261.79422680412375" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="330" y="3680" width="380" height="120" as="geometry" />
+          <mxGeometry x="330" y="3960" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-48" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="330" y="3680" width="380" height="120" as="geometry" />
+          <mxGeometry x="330" y="3960" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-69" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="670" y="3690" width="30" height="30" as="geometry" />
+          <mxGeometry x="670" y="3970" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-17" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="3780" width="360" height="20" as="geometry">
+          <mxGeometry x="340" y="4060" width="360" height="20" as="geometry">
             <mxRectangle x="10" y="100" width="360" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -180,9 +180,9 @@
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-76" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="440" y="3310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-13" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" collapsed="1">
-          <mxGeometry x="110" y="3400" width="360" height="20" as="geometry">
-            <mxRectangle x="10" y="100" width="360" height="290" as="alternateBounds" />
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-13" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="110" y="3400" width="360" height="290" as="geometry">
+            <mxRectangle x="110" y="3400" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-14" value="&lt;b&gt;Scénarios : &lt;/b&gt;toutes les actions qu&#39;un utilisateur pourrait entreprendre (y compris une mauvaise saisie)&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; définit le contexte. Sur quelle page sommes-nous et dans quel état sommes-nous ? L&#39;utilisateur est-il un administrateur ? Connecté ? A créé une campagne ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;quelles actions l&#39;utilisateur exécute. Quel événement s&#39;est produit ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;que devrait faire le système en réponse ? Quel est le résultat attendu ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-13" vertex="1">
@@ -197,9 +197,9 @@
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-77" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="900" y="3310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-15" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" collapsed="1">
-          <mxGeometry x="570" y="3400" width="360" height="20" as="geometry">
-            <mxRectangle x="10" y="100" width="360" height="290" as="alternateBounds" />
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-15" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="570" y="3400" width="360" height="290" as="geometry">
+            <mxRectangle x="570" y="3400" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-16" value="&lt;b&gt;Scénarios : &lt;/b&gt;toutes les actions qu&#39;un utilisateur pourrait entreprendre (y compris une mauvaise saisie)&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; définit le contexte. Sur quelle page sommes-nous et dans quel état sommes-nous ? L&#39;utilisateur est-il un administrateur ? Connecté ? A créé une campagne ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;quelles actions l&#39;utilisateur exécute. Quel événement s&#39;est produit ?&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;que devrait faire le système en réponse ? Quel est le résultat attendu ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-15" vertex="1">
