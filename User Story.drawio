@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T13:23:17.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="HrjZ82d847Avy5zL7Ckx" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-13T16:13:47.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RwwRjG_TCt2yHPBLWhlC" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="1986" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-36" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux une plateforme de soutien scolaire a distance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour pouvoir y accéder de n&#39;importe ou.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-36" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux une plateforme de soutien scolaire a distance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour pouvoir y accéder de n&#39;importe ou.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-71" value="13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
           <mxGeometry width="380" height="119.90483743061066" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-30" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;nous voulons avoir un compte dédier sur le site.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour rassembler l&#39;ensemble de nos activité.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-30" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons avoir un compte dédier sur le site.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour rassembler l&#39;ensemble de nos activité.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
           <mxGeometry width="380" height="119.90483743061066" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-74" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="OetnsAStxz32LthR_dCU-28" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="330" y="4280" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-48" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-48" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="330" y="4280" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-69" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -117,7 +117,7 @@
         <mxCell id="JxAMWlbWghc0Z2kch12Z-18" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite avoir un résumer de l&#39;ensemble de sont activité.&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; que je souhaite voir l&#39;ensemble de mon activité en une fois.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur le logo de learn@home.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Alors : &lt;/b&gt;j&#39;arrive sur mon tableau de bord sur le quelle ce trouve un résumé des prochains évènements ainsi que mes tâches en cours, un icône avec le nombre de message non lu apparait aussi sur le bouton de menu &quot;chat&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Étant donné :&lt;/b&gt; que je suis sur le tableau de bord et souhaite voir l’évènement directement sur le calendrier&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur l&#39;évènement dans le tableau de bord.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Alors : &lt;/b&gt;je suis rediriger sur la page calendrier directement a la date du prochaine évènement.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Étant donné :&lt;/b&gt; que je suis sur le tableau de bord et souhaite voir ma tâche directement dans la page tâche.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur la tâche dans le tableau de bord.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;je suis rediriger sur la page tâche directement .&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-17" vertex="1">
           <mxGeometry x="10" y="30" width="340" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="glmxG8PI0PAgrx1D5rJq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JxAMWlbWghc0Z2kch12Z-17" source="JxAMWlbWghc0Z2kch12Z-18" target="JxAMWlbWghc0Z2kch12Z-18">
+        <mxCell id="glmxG8PI0PAgrx1D5rJq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="JxAMWlbWghc0Z2kch12Z-17" source="JxAMWlbWghc0Z2kch12Z-18" target="JxAMWlbWghc0Z2kch12Z-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-49" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
@@ -126,7 +126,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-27" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons pouvoir communiquer.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour faciliter les échanges et l&#39;apprentissage.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;spacingBottom=0;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-27" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons pouvoir communiquer.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour faciliter les échanges et l&#39;apprentissage.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;spacingBottom=0;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-79" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="100" y="1240" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-33" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; un tuteur dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-33" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; un tuteur dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="100" y="1240" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-72" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -160,7 +160,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="560" y="1240" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-39" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que tuteur bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour les soutenirs dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-39" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que tuteur bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour les soutenir dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="560" y="1240" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-73" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -177,7 +177,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="100" y="3360" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-23" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâches.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour savoir ce qu&#39;il me reste à faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-23" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâches.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour savoir ce qu&#39;il me reste à faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="100" y="3360" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-76" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -194,7 +194,7 @@
         <mxCell id="OetnsAStxz32LthR_dCU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="560" y="3360" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-42" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour leur fixer des objectifs concret.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+        <mxCell id="OetnsAStxz32LthR_dCU-42" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que tuteur bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour leur fixer des objectifs concret.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="560" y="3360" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-77" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -214,7 +214,7 @@
         <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour connaitre nos rendez-vous et échéances de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
+        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour connaitre nos rendez-vous et échéances de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-78" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
@@ -232,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KVjIyTAAksKFLHILbtpx" name="Page-2">
-    <mxGraphModel dx="3284" dy="4316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2809" dy="3707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3100" y="-900" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-6" value="&lt;div align=&quot;left&quot;&gt;&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;&lt;div&gt;En tend qu&#39;utilisateurs.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;nous voulons avoir un compte dédier sur le site.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour rassembler l&#39;ensemble de nos activité.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-5" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-6" value="&lt;div align=&quot;left&quot;&gt;&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;&lt;div&gt;En tend qu&#39;utilisateurs.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un compte dédier sur le site.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour rassembler l&#39;ensemble de nos activité.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-5" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-7" value="&lt;div&gt;10&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-5" vertex="1">
@@ -263,7 +263,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-8" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-10" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour les soutenir dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-8" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-10" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux pouvoir suivre mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour les soutenir dans leurs apprentissages.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-8" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-11" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-8" vertex="1">
@@ -275,7 +275,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-12" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-14" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; un mentor dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-12" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-14" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; un mentor dédier.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour avoir un suivit personnalisé.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-12" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-15" value="3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-12" vertex="1">
@@ -287,7 +287,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-16" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-18" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs&lt;/li&gt;&lt;li&gt;Nous voulons pouvoir communiquer&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour facilité les échanges et l&#39;apprentissage.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;spacingBottom=0;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-16" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-18" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs&lt;/li&gt;&lt;li&gt;Nous voulons pouvoir communiquer&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour facilité les échanges et l&#39;apprentissage.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;spacingBottom=0;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-16" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-19" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-16" vertex="1">
@@ -299,7 +299,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-21" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="wi2PPpbH4DfLp3u9JpS9-20" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-22" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour connaitre nos rendez-vous et échéance de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="wi2PPpbH4DfLp3u9JpS9-20" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-22" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour connaitre nos rendez-vous et échéance de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="wi2PPpbH4DfLp3u9JpS9-20" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-23" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-20" vertex="1">
@@ -311,7 +311,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-25" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="wi2PPpbH4DfLp3u9JpS9-24" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-26" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâche.&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour savoir ce qu&#39;il me reste a faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-24" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-26" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâche.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour savoir ce qu&#39;il me reste a faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-24" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-27" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-24" vertex="1">
@@ -323,7 +323,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-28" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-30" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que mentor bénévole&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves&lt;br&gt;&lt;/li&gt;&lt;li&gt;pour leur fixer des objectif concret&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-28" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-30" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que tuteur bénévole&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour leur fixer des objectif concret&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-28" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-31" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-28" vertex="1">
@@ -335,7 +335,7 @@
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="wi2PPpbH4DfLp3u9JpS9-32" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wi2PPpbH4DfLp3u9JpS9-34" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-32" vertex="1">
+        <mxCell id="wi2PPpbH4DfLp3u9JpS9-34" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="wi2PPpbH4DfLp3u9JpS9-32" vertex="1">
           <mxGeometry width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wi2PPpbH4DfLp3u9JpS9-35" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="wi2PPpbH4DfLp3u9JpS9-32" vertex="1">
