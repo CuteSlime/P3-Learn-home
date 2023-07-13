@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T13:12:37.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JdB97N55mEoKfYomctpj" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-13T13:21:41.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="27nj5KpNEWVjDWbhYVUM" version="21.6.1" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
     <mxGraphModel dx="1986" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-3" value="User Story&#39;s" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-720" width="1040" height="4680" as="geometry">
+          <mxGeometry x="-360" y="-720" width="1040" height="5290" as="geometry">
             <mxRectangle x="-360" y="-720" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -110,12 +110,15 @@
           <mxGeometry x="670" y="4290" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-17" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="340" y="4380" width="360" height="290" as="geometry">
+          <mxGeometry x="340" y="4380" width="360" height="910" as="geometry">
             <mxRectangle x="340" y="4380" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-18" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite avoir un résumer de l&#39;ensemble de sont activité.&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; que je souhaite voir l&#39;ensemble de mon activité en une fois.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur le logo de learn@home.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;j&#39;arrive sur mon tableau de bord sur le quelle ce trouve un résumé des prochains évènements ainsi que mes ta" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-17" vertex="1">
-          <mxGeometry x="10" y="30" width="340" height="250" as="geometry" />
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-18" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite avoir un résumer de l&#39;ensemble de sont activité.&lt;br&gt;&lt;br&gt;&lt;b&gt;Etant donné :&lt;/b&gt; que je souhaite voir l&#39;ensemble de mon activité en une fois.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur le logo de learn@home.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Alors : &lt;/b&gt;j&#39;arrive sur mon tableau de bord sur le quelle ce trouve un résumé des prochains évènements ainsi que mes tâches en cours, un icône avec le nombre de message non lu apparait aussi sur le bouton de menu &quot;chat&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Étant donné :&lt;/b&gt; que je suis sur le tableau de bord et souhaite voir l’évènement directement sur le calendrier&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur l&#39;évènement dans le tableau de bord.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Alors : &lt;/b&gt;je suis rediriger sur la page calendrier directement a la date du prochaine évènement.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Étant donné :&lt;/b&gt; que je suis sur le tableau de bord et souhaite voir ma tâche directement dans la page tâche.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je clique sur la tâche dans le tableau de bord.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;je suis rediriger sur la page tâche directement .&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-17" vertex="1">
+          <mxGeometry x="10" y="30" width="340" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="glmxG8PI0PAgrx1D5rJq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JxAMWlbWghc0Z2kch12Z-17" source="JxAMWlbWghc0Z2kch12Z-18" target="JxAMWlbWghc0Z2kch12Z-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-49" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
           <mxGeometry x="330" y="1530" width="380" height="1120" as="geometry" />
