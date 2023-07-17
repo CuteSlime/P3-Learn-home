@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T17:47:56.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="WK-mEThPkpdoTkVCY7Vy" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-17T20:23:14.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="h24Ir9DEqHbVz3N7wkuU" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="2856" dy="2266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3194" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-3" value="User Story&#39;s" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-720" width="1040" height="3750" as="geometry">
+          <mxGeometry x="-360" y="-720" width="1040" height="4130" as="geometry">
             <mxRectangle x="-360" y="-720" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
         <mxCell id="JxAMWlbWghc0Z2kch12Z-2" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je vais sur le site&lt;br&gt;&lt;br&gt;&lt;b&gt;É&lt;/b&gt;&lt;b&gt;tant donné :&lt;/b&gt; que j&#39;ai accès au site.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je cherche un un soutiens scolaire &lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;Le site m&#39;attribue un tuteur pour me suivre et m&#39;offre un chat pour dialoguer, un calendrier pour répertorier les évènements et un endroit pour lister les tâches à faire." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hbFUXT8UACBMAcb7MSX3-1" vertex="1">
           <mxGeometry x="10" y="30" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="SnOtPxaTyzNupZ3HoU2i-1" value="Epic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OetnsAStxz32LthR_dCU-34">
+        <mxCell id="SnOtPxaTyzNupZ3HoU2i-1" value="Epic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
           <mxGeometry x="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
@@ -135,7 +135,7 @@
           <mxGeometry x="10" y="17.99" width="340" height="372.01" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-49" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
-          <mxGeometry x="335" y="1320" width="380" height="740" as="geometry" />
+          <mxGeometry x="335" y="1320" width="380" height="790" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
           <mxGeometry width="380" height="120.00000000000001" as="geometry" />
@@ -147,24 +147,24 @@
           <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-9" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="OetnsAStxz32LthR_dCU-49" vertex="1">
-          <mxGeometry x="10" y="100" width="360" height="640" as="geometry">
+          <mxGeometry x="10" y="100" width="360" height="690" as="geometry">
             <mxRectangle x="10" y="100" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-10" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je souhaite communiquer avec d&#39;autres utilisateurs.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que j&#39;ai l&#39;utilisateur en contact.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur son nom dans mes contacts.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec lui.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je n&#39;ai pas l&#39;utilisateur en contact.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur &quot;+&quot;.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peux ajouter l&#39;utilisateur à mes contacts pour discuter avec lui.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je souhaite communiquer avec plusieurs personnes.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur un groupe dont je fais partie&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec eux.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je souhaite communiquer avec plusieurs personnes sans avoir de groupe.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur le nom de mes contacts pour les ajouter au groupe et ainsi créer un groupe.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec eux.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;Je ne souhaite plus avoir d&#39;interaction avec un autre utilisateur.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur le nom de l&#39;utilisateur dans mes contacts.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut supprimer celui-ci de mes contacts.&lt;br&gt;&lt;b&gt;&lt;br&gt;Étant donné : &lt;/b&gt;J&#39;ai manqué des messages.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;j&#39;accède au chat concerné.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut voir qu&#39;elles sont les messages que je n&#39;ai pas lus et voir à quelle heure ont été postés ces messages.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;Je veut lire des messages qui ne sont plus visibles dans la fenêtre.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;j&#39;utilise la barre de défilement.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut voir les anciens messages." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-9" vertex="1">
-          <mxGeometry x="10" y="30" width="340" height="610" as="geometry" />
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-10" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je souhaite communiquer avec d&#39;autres utilisateurs.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que j&#39;ai l&#39;utilisateur en contact.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur son nom dans mes contacts.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec lui.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je n&#39;ai pas l&#39;utilisateur en contact.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur &quot;+&quot;.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Alors : &lt;/b&gt;Je peux ajouter l&#39;utilisateur à mes contacts pour discuter avec lui.&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat&lt;b&gt;.&lt;br&gt;Lorsque : &lt;/b&gt;je regarde qui a écrit.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peux voir ça photo à coter.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je souhaite communiquer avec plusieurs personnes.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur un groupe dont je fais partie&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec eux.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur la fenêtre de chat et que je souhaite communiquer avec plusieurs personnes sans avoir de groupe.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur le nom de mes contacts pour les ajouter au groupe et ainsi créer un groupe.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut discuter avec eux.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;Je ne souhaite plus avoir d&#39;interaction avec un autre utilisateur.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur le nom de l&#39;utilisateur dans mes contacts.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut supprimer celui-ci de mes contacts.&lt;br&gt;&lt;b&gt;&lt;br&gt;Étant donné : &lt;/b&gt;J&#39;ai manqué des messages.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;j&#39;accède au chat concerné.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut voir qu&#39;elles sont les messages que je n&#39;ai pas lus et voir à quelle heure ont été postés ces messages.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;Je veut lire des messages qui ne sont plus visibles dans la fenêtre.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;j&#39;utilise la barre de défilement.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;Je peut voir les anciens messages." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-9" vertex="1">
+          <mxGeometry x="10" y="30" width="340" height="660" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="100" y="2580" width="380" height="120" as="geometry" />
+          <mxGeometry x="100" y="2770" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-23" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir faire une liste de tâches.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour savoir ce qu&#39;il me reste à faire et ce que j&#39;ai déjà fait.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="100" y="2580" width="380" height="120" as="geometry" />
+          <mxGeometry x="100" y="2770" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-76" value="5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="440" y="2590" width="30" height="30" as="geometry" />
+          <mxGeometry x="440" y="2780" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-13" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="110" y="2680" width="360" height="350" as="geometry">
+          <mxGeometry x="110" y="2870" width="360" height="350" as="geometry">
             <mxRectangle x="110" y="3400" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -172,53 +172,33 @@
           <mxGeometry x="10" y="30" width="340" height="320" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="560" y="2580" width="380" height="120" as="geometry" />
+          <mxGeometry x="560" y="2770" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-42" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tend que tuteur bénévole.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux&amp;nbsp; pouvoir attribuer des tâches à mes élèves.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour leur fixer des objectifs concret.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="560" y="2580" width="380" height="120" as="geometry" />
+          <mxGeometry x="560" y="2770" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-77" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="900" y="2590" width="30" height="30" as="geometry" />
+          <mxGeometry x="900" y="2780" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-15" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="570" y="2680" width="360" height="470" as="geometry">
+          <mxGeometry x="570" y="2870" width="360" height="470" as="geometry">
             <mxRectangle x="570" y="3400" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-16" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite avoir une liste de tâche pour gérer ses tâches ainsi que celle de ses élèves.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je souhaite voir mes tâches en cours.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je vais sur l&#39;onglet tâches puis dans le menu déroulant sélectionne &quot;mes tâches&quot;.&lt;b&gt;&lt;br&gt;Alors :&lt;/b&gt; je peux voir toutes mes tâches en attente, en cours ou fini.&lt;br&gt;&lt;b&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je souhaite voir les tâches en cours d&#39;un de mes élèves.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je vais sur l&#39;onglet tâches puis dans le menu déroulant sélectionne l&#39;élève concerné.&lt;b&gt;&lt;br&gt;Alors :&lt;/b&gt; je peux voir toutes ses tâches en attente, en cours ou fini.&lt;br&gt;&lt;b&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je souhaite déplacer une tâche.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je vais sur l&#39;onglet tâches et regarde une tâche.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;je peux cliquer sur les flèches pour déplacer ma tâche en attente, en cours ou fini.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je souhaite ajouter une tâche.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je vais sur l&#39;onglet tâches.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;je peux voir cliquer sur le + pour ajouter une tâche en attente puis la déplacé au besoin.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je souhaite supprimer une tâche.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je vais sur l&#39;onglet tâches puis sur la tâche.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;je peux voir cliquer sur le x pour supprimer une tâche.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-15" vertex="1">
           <mxGeometry x="10" y="30" width="340" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-2" value="" style="group" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
-          <mxGeometry x="330" y="2200" width="380" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
-          <mxGeometry x="-5" y="-100" width="380" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tant qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour connaitre nos rendez-vous et échéances de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
-          <mxGeometry x="-5" y="-100" width="380" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-78" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
-          <mxGeometry x="335" y="-90" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-11" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=2;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-2" vertex="1">
-          <mxGeometry x="5" width="360" height="340" as="geometry">
-            <mxRectangle x="10" y="100" width="360" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-12" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite un calendrier pour suivre ces événements et tâches à venir.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je veux voir quand sera mon prochain rendez-vous avec mon élève/tuteur.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur une date (coloré pour indiquer l&#39;existence d&#39;un évènement ou une tâche)&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;la page m&#39;affiche les événements à cette date.&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je veux voir quand je dois finir une tâche.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur une date (coloré pour indiquer l&#39;existence d&#39;un évènement ou une tâche)&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;la page m&#39;affiche les tâches à cette date.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur une date à la quel je veux ajouter un évènement ou une tâche.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur le plus.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;je peux ajouter un événement ou une tâche.&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-11" vertex="1">
-          <mxGeometry x="10" y="30" width="340" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="330" y="3200" width="380" height="120" as="geometry" />
+          <mxGeometry x="330" y="3390" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-48" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tant qu&#39;utilisateurs.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nous voulons avoir un résumé de notre activités. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour visualiser rapidement l&#39;ensemble du contenu.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="330" y="3200" width="380" height="120" as="geometry" />
+          <mxGeometry x="330" y="3390" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-69" value="10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="670" y="3210" width="30" height="30" as="geometry" />
+          <mxGeometry x="670" y="3400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxAMWlbWghc0Z2kch12Z-17" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
-          <mxGeometry x="340" y="3300" width="360" height="380" as="geometry">
+          <mxGeometry x="340" y="3490" width="360" height="380" as="geometry">
             <mxRectangle x="340" y="4380" width="360" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -227,6 +207,23 @@
         </mxCell>
         <mxCell id="glmxG8PI0PAgrx1D5rJq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="JxAMWlbWghc0Z2kch12Z-17" source="JxAMWlbWghc0Z2kch12Z-18" target="JxAMWlbWghc0Z2kch12Z-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EO4pnPSAchLOPsAstI3M-14" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="330" y="2160" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EO4pnPSAchLOPsAstI3M-6" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tant qu&#39;utilisateurs.&lt;/li&gt;&lt;li&gt;Nous voulons gérer notre emploi du temps. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour connaitre nos rendez-vous et échéances de tâches.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;container=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="330" y="2160" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MKo6S_NpZ9i3rgRZni-A-78" value="8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="670" y="2170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-11" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=2;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
+          <mxGeometry x="340" y="2260" width="360" height="340" as="geometry">
+            <mxRectangle x="10" y="100" width="360" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxAMWlbWghc0Z2kch12Z-12" value="&lt;b&gt;Scénarios : &lt;/b&gt;l&#39;utilisateur souhaite un calendrier pour suivre ces événements et tâches à venir.&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je veux voir quand sera mon prochain rendez-vous avec mon élève/tuteur.&lt;b&gt;&lt;br&gt;Lorsque : &lt;/b&gt;je clique sur une date (coloré pour indiquer l&#39;existence d&#39;un évènement ou une tâche)&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;la page m&#39;affiche les événements à cette date.&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je veux voir quand je dois finir une tâche.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur une date (coloré pour indiquer l&#39;existence d&#39;un évènement ou une tâche)&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;la page m&#39;affiche les tâches à cette date.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;Étant donné : &lt;/b&gt;que je suis sur une date à la quel je veux ajouter un évènement ou une tâche.&lt;b&gt;&lt;br&gt;Lorsque :&lt;/b&gt; je clique sur le plus.&lt;b&gt;&lt;br&gt;Alors : &lt;/b&gt;je peux ajouter un événement ou une tâche.&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="JxAMWlbWghc0Z2kch12Z-11" vertex="1">
+          <mxGeometry x="10" y="30" width="340" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
