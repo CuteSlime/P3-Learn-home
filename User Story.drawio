@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T20:25:47.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ddB-wUagzwYFmMNv_Dsy" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-21T21:24:45.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="WnEpgJ7R3n6qlU7TLR1X" version="21.6.5" type="github" pages="2">
   <diagram name="Page-1" id="sj1A13hGBqNmOc4zXh2_">
-    <mxGraphModel dx="1774" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,29 +59,6 @@
         </mxCell>
         <mxCell id="MKo6S_NpZ9i3rgRZni-A-4" value="Doit avoir" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="MKo6S_NpZ9i3rgRZni-A-5" vertex="1">
           <mxGeometry x="40" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-34" value="" style="group;fontStyle=0;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1" connectable="0">
-          <mxGeometry x="100" y="160" width="440" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
-          <mxGeometry width="380" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OetnsAStxz32LthR_dCU-36" value="&lt;ol style=&quot;line-height: 200%;&quot;&gt;&lt;li&gt;En tant qu&#39;élève.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je veux une plateforme de soutien scolaire à distance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pour pouvoir y accéder de n&#39;importe ou.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;spacing=2;spacingTop=4;spacingBottom=4;imageAspect=1;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
-          <mxGeometry width="380" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="MKo6S_NpZ9i3rgRZni-A-71" value="13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;metaEdit=0;arcSize=50;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;noLabel=0;fontStyle=1" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
-          <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hbFUXT8UACBMAcb7MSX3-1" value="Critères d&#39;acceptations: " style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;startSize=10;swimlaneLine=0;verticalAlign=middle;spacingTop=3;fillStyle=auto;labelBackgroundColor=none;moveCells=0;separatorColor=none;glass=0;shadow=0;swimlaneFillColor=#FFFFFF;absoluteArcSize=0;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
-          <mxGeometry x="10" y="100" width="360" height="190" as="geometry">
-            <mxRectangle x="10" y="100" width="360" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JxAMWlbWghc0Z2kch12Z-2" value="&lt;b&gt;Scénarios : &lt;/b&gt;Je vais sur le site&lt;br&gt;&lt;br&gt;&lt;b&gt;É&lt;/b&gt;&lt;b&gt;tant donné :&lt;/b&gt; que j&#39;ai accès au site.&lt;br&gt;&lt;br&gt;&lt;b&gt;Lorsque : &lt;/b&gt;je cherche un un soutiens scolaire &lt;br&gt;&lt;br&gt;&lt;b&gt;Alors : &lt;/b&gt;Le site m&#39;attribue un tuteur pour me suivre et m&#39;offre un chat pour dialoguer, un calendrier pour répertorier les évènements et un endroit pour lister les tâches à faire." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hbFUXT8UACBMAcb7MSX3-1" vertex="1">
-          <mxGeometry x="10" y="30" width="340" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="SnOtPxaTyzNupZ3HoU2i-1" value="Epic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OetnsAStxz32LthR_dCU-34" vertex="1">
-          <mxGeometry x="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OetnsAStxz32LthR_dCU-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKo6S_NpZ9i3rgRZni-A-3" vertex="1">
           <mxGeometry x="100" y="1040" width="380" height="120" as="geometry" />
