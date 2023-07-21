@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T11:10:19.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cHsjNzh9gBY4gRK1gLak" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T11:12:17.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="HwKwUBCrolRBioAC49EK" version="21.6.5" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
     <mxGraphModel dx="7209" dy="8065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PegdvL3NnOvwOlasfFJZ-1" value="Voir l&#39;horodatage des messages" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="PegdvL3NnOvwOlasfFJZ-1" value="Voir l&#39;horodatage des messages avec nom et avatar" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4830" y="-6310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PegdvL3NnOvwOlasfFJZ-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-95" target="PegdvL3NnOvwOlasfFJZ-1" edge="1">
@@ -315,6 +315,15 @@
         </mxCell>
         <mxCell id="7Gyq6XEsd6AoXlAxy5yO-21" value="Voir les tâches des élèves suivit" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4670" y="-5380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7U0nr99SQte2n43MqbgJ-1" value="gérer les groupes" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4440" y="-6230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7U0nr99SQte2n43MqbgJ-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-95" target="7U0nr99SQte2n43MqbgJ-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-4416" y="-6330" as="sourcePoint" />
+            <mxPoint x="-4430" y="-6200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
