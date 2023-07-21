@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T15:46:28.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="XX06g8g3-pa8T3OuF0AL" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T10:46:20.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IyjZGiJfvVwaKwYKFWrZ" version="21.6.5" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
-    <mxGraphModel dx="7209" dy="7782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7209" dy="8065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="mz7fUr0vwj-igbSiduvv-131" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-27" target="mz7fUr0vwj-igbSiduvv-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PtBrqgCSeQPrA5Cdtxjb-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-27" target="7Gyq6XEsd6AoXlAxy5yO-7">
+        <mxCell id="PtBrqgCSeQPrA5Cdtxjb-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-27" target="7Gyq6XEsd6AoXlAxy5yO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-27" value="élève en difficulter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
             <mxPoint x="-4380" y="-5605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtBrqgCSeQPrA5Cdtxjb-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mz7fUr0vwj-igbSiduvv-30" target="mz7fUr0vwj-igbSiduvv-114">
+        <mxCell id="PtBrqgCSeQPrA5Cdtxjb-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-30" target="mz7fUr0vwj-igbSiduvv-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-30" value="Tuteur bénévole" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -220,7 +220,7 @@
             <mxPoint x="-4421" y="-4960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-1" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-1" value="envoyer un nouveau mot de passe" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4361" y="-6890" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-85" target="4Mpj3EFvp5IDbKv1Nh6n-1" edge="1">
