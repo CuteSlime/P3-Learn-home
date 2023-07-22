@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T06:49:12.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="PirtzsPosOlVvLjA7BgE" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T06:51:29.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="FzT2ATDpOGJPZ1SW4vL_" version="21.6.5" type="github">
   <diagram name="Page-1" id="kGMyGou1nUePbA4EINrC">
-    <mxGraphModel dx="7209" dy="8065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10522" dy="10517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="-3751" y="-5965" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-84" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4688" y="-6930" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4760" y="-6920" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mz7fUr0vwj-igbSiduvv-91" value="Voir l&#39;historique des messages" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4548" y="-6770" width="140" height="70" as="geometry" />
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4Mpj3EFvp5IDbKv1Nh6n-1" value="Changer de mot de passe" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4688" y="-6820" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4760" y="-6810" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PegdvL3NnOvwOlasfFJZ-1" value="Voir l&#39;horodatage des messages avec nom et avatar" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4530" y="-6890" width="140" height="70" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="-5390" y="-6720" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLPYK62X0eKmiY2nBiN5-2" value="connecter au compte" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4688" y="-6710" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4760" y="-6700" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLPYK62X0eKmiY2nBiN5-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=none;endFill=0;dashed=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="mz7fUr0vwj-igbSiduvv-107" target="mz7fUr0vwj-igbSiduvv-110" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
